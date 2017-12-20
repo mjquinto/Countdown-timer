@@ -1,0 +1,85 @@
+a{
+	font-size: 30px;
+	padding: 7px;
+	text-decoration-line: none;
+	color: black;
+	border: .5px solid black;
+	border-radius: 30px/5px;
+
+}
+
+ .stopwatch
+  { 
+  	margin-bottom: 10px;
+  	font-family: "OCR A Extended";	
+ 	color: black; 
+  	padding: 5px;
+  	width: 250px; 
+   	font-size: 30px ; 
+   	text-align: center;
+	border: .5px solid black;
+	background-color: gray;
+	height: 50px;
+	font-weight:bolder;
+}
+.lap
+{ 
+	margin: 0px;
+	font-weight: bolder;
+	background-color: gray;
+	font-family: "OCR A Extended";	
+	font-size: 20px; 
+	color: black;
+	padding: 1px; 
+	border: .5px solid black; 
+	height:410px; 
+	width: 250px; 
+	
+	
+	
+}
+
+
+.transform{
+	text-shadow: 2px 2px white;
+	font-family: stencil;
+	font-size: 65px;
+}
+
+
+.button 
+{ 
+	padding: 0px;
+	font-weight: bolder;
+	font-family: "OCR A Extended";
+	font-size: 15px;
+	border-radius: 30px/5px;
+	height: 50px;
+	width: 120px;
+	margin-bottom: 10px;
+	border: .5px solid black;
+	}
+
+body{
+	margin: 0px;
+	text-align: center;	
+}
+
+span{
+	margin: 0px;
+	color : red ;
+	font-family: "OCR A Extended";
+	font-size: 55px;
+	font-weight: bolder;
+	text-align: center; 
+	
+}
+p{
+	margin-left: 0px;
+	color : white ;
+	font-family: "OCR A Extended";
+	font-size: 20px;
+	font-weight: bold; 
+	
+	
+}
